@@ -1,0 +1,1 @@
+java  -jar BookStore-bookservice-1.0.jar &

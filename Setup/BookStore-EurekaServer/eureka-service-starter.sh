@@ -1,0 +1,1 @@
+java -jar BookStore-EurekaServer-1.0.jar &
