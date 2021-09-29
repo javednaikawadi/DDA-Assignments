@@ -1,0 +1,6 @@
+com\dda\bookservice\BookServiceAppStarter.class
+com\dda\bookservice\exception\RecordNotFoundException.class
+com\dda\bookservice\controller\BookServiceController.class
+com\dda\bookservice\entity\BookEntity.class
+com\dda\bookservice\service\BookService.class
+com\dda\bookservice\repository\BookServiceRepository.class
